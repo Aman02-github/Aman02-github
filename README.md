@@ -1,5 +1,5 @@
 ### Hi there 👋
-#[![Header](https://github.com/Aman02-github/Aman02-github/Aman Pathak.png "Header")](https://some-url.dev/)
+[![Header](https://github.com/Aman02-github/Aman02-github/blob/main/AmanPathak.png "Header")](https://some-url.dev/)
 🧑‍🎓
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
