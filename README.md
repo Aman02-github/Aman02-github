@@ -18,7 +18,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/pathak05_
-[2]: https://www.linkedin.com/in/aman-pathak-9b5500144/
+[2]: https://www.linkedin.com/in/aman-pathak-9b5500144
 
 <!--
 **Aman02-github/Aman02-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
