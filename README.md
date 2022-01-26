@@ -1,7 +1,7 @@
 [![Header](https://github.com/Aman02-github/Aman02-github/blob/main/AmanPathak.png "Header")](https://some-url.dev/)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 🧑‍🎓
-My name is Aman Pathak and I'm a Software developer/DevOps engineer. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Aman Pathak and I'm a Software Engineer. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 ## 💻🔧 Technologies And Tools!
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
