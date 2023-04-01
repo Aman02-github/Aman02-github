@@ -1,22 +1,24 @@
 [![Header](https://github.com/Aman02-github/Aman02-github/blob/main/AmanPathak.png "Header")](https://some-url.dev/)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 🧑‍🎓
-My name is Aman Pathak and I'm a Software Engineer. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+I am a Software Engineer. You can find me on [![Twitter][1.2]][1] and on [![LinkedIn][3.2]][3].
 
 ## 💻🔧 Technologies And Tools!
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=springboot&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SpringSecurity-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SpringMVC-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+
 
 <!-- icons with padding -->
 
@@ -33,9 +35,10 @@ My name is Aman Pathak and I'm a Software Engineer. You can find me on [![Twitte
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/pathak05_
-[2]: https://github.com/Aman02-github/
-[3]: https://www.linkedin.com/in/aman-pathak-9b5500144
+[2]: https://github.com/Aman02-github
+[3]: https://linkedin.com/in/amanpathak05
 
+![](https://komarev.com/ghpvc/?username=Aman02-github&color=blue)
 
 <!--
 **Aman02-github/Aman02-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
